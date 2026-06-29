@@ -1,0 +1,7 @@
+# Datos personales y notas — no van al repo público
+anterior.md
+costos.md
+dashboard-state.json
+*.json
+
+.DS_Store
